@@ -13,19 +13,6 @@ int main()
     return 0;
 }
 
-//20 2 4 5  //2 3 4 5 6 7 8 9
-// 19
-// 18 6 3 9
-// 17
-//16 8
-//15
-//14 7
-//13
-//12
-//11
-//10
-
-//smallest # = 110
 
 /*Euclidean Algorithm https://en.wikipedia.org/wiki/Euclidean_algorithm
 
@@ -49,4 +36,4 @@ int main() {
     }
     std::cout << result << '\n';
 }
-*/
+
